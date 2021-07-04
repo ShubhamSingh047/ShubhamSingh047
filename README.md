@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Tech-DeN**
+- 🔭 My current project is on **[Tech-DeN](https://github.com/ShubhamSingh047/Tech-DeN)**
 
-- 🌱 I’m currently learning **MERN stack.**
+- 🌱 I’m currently working with **"MERN stack".**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
