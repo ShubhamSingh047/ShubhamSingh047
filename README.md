@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shubham.shubham.singh13@gmail.com**
 
-- 📄 You can Also checkOut **[My Portfolio](https://shubham-singh.com)**
+- 📄 You can Also checkOut **[My Portfolio](https://shubham-singh.co)**
 
 - ⚡ Fun fact **I can code for a cup of coffee 🤷🏼 .**
 
