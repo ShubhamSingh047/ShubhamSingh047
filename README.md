@@ -6,10 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently working with **"MERN stack".**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
 - 📫 How to reach me **shubham.shubham.singh13@gmail.com**
 
 - ⚡ Fun fact **I can code for a cup of coffee 🤷🏼 .**
