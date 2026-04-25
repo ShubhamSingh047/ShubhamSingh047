@@ -1,80 +1,117 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg" height="175px"/></a>
+<div align="center">
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="31px">, I'm Shubham</h1>
-<h3 align="center">Full Stack & GenAI Developer from India.</h3>
+# Hi 👋, I'm Shubham
 
+### Full Stack & GenAI Developer from India
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BCDEC&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+AI+Implementation;Building+Agentic+AI+%26+GenAI+products;Full+Stack+%E2%80%A2+JS+%E2%80%A2+TS+%E2%80%A2+Go+%E2%80%A2+Python;AWS+%E2%80%A2+Cloud+%E2%80%A2+Distributed+Systems)](#)
+
+</div>
+
+---
 
 ## 🙋‍♂️ About Me
 
 - 💻 Full Stack Developer working across **JavaScript, TypeScript, Go, and Python**
-
 - 🤖 Building **GenAI** and **Agentic AI** applications
+- ☁️ Working with **AWS** (Lambda, SQS, SNS, RDS, CloudWatch) on enterprise integrations
+- 🌍 Founder of **Plans2Pick** — AI-powered travel platform for Indian destinations
+- 📫 Reach me at **shubham.shubham.singh13@gmail.com**
+- ⚡ Fun fact: **I can code for a cup of coffee 🤷🏼**
 
-- 📫 How to reach me **shubham.shubham.singh13@gmail.com**
+---
 
-- ⚡ Fun fact **I can code for a cup of coffee 🤷🏼 .**
+## 🛠️ Tech Stack
 
-## 🚀 Languages and Tools:
+#### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a> 
-    <a href="https://go.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="48" height="48"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="48" height="48"/> </a>
-    <a href="https://openai.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/chatgpt.png"/> </a>
-    <a href="https://www.langchain.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/chatbot.png"/> </a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-</p>
-<br>
+#### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-## 🔥 All Time Favourite:
-<br>
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#) [![Go Badge](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&labelColor=black&logo=go&logoColor=00ADD8)](#) [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=FFD43B)](#) [![GenAI Badge](https://img.shields.io/badge/-GenAI-10A37F?style=for-the-badge&labelColor=black&logo=openai&logoColor=10A37F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+#### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-<br>
+#### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<p align="center">
-    <img title="🔥 Streak stats" alt="Shubham's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamSingh047&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</p>
+#### AI & GenAI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-## 📊 My Github Stats
+#### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-  <br/>
-  <img alt="Shubham Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShubhamSingh047&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img alt="Shubham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSingh047&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShubhamSingh047&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSingh047&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 
 <br/>
 <br/>
 
-<img alt="Shubham Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShubhamSingh047&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ShubhamSingh047&theme=react&hide_border=true&background=0D1117"/>
 
-<br/>
-<br/>
+</div>
 
-## Connect with me:
-<p align="left">
+---
 
-<a href = "https://www.linkedin.com/in/shubham-singh-chauhan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/_shubham_singh22/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+## 📈 Contribution Activity
 
-</p>
+<div align="center">
 
-## ❤ Views and Followers
-<a href="https://github.com/ShubhamSingh047">
-    <img src="https://komarev.com/ghpvc/?username=ShubhamSingh047">
-</a>
-<a href="https://github.com/ShubhamSingh047?tab=followers"><img src="https://img.shields.io/github/followers/ShubhamSingh047?label=Followers&style=social" alt="GitHub Badge"></a>
+[![Shubham's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSingh047&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area=true)](#)
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShubhamSingh047&theme=algolia&no-frame=true&row=1&column=7)](#)
+
+</div>
+
+---
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-singh-chauhan/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_shubham_singh22/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubham.shubham.singh13@gmail.com)
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ShubhamSingh047&color=5BCDEC&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/ShubhamSingh047?label=Followers&style=for-the-badge&color=5BCDEC&labelColor=0D1117)
+
+</div>
